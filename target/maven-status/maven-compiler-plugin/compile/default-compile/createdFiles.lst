@@ -1,0 +1,5 @@
+com\veyselozturk\socialmedia\repository\UserRepository.class
+com\veyselozturk\socialmedia\SocialMediaApplication.class
+com\veyselozturk\socialmedia\service\UserService.class
+com\veyselozturk\socialmedia\controller\UserController.class
+com\veyselozturk\socialmedia\entity\User.class
